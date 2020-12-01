@@ -1,0 +1,5 @@
+{
+    "bot_token": "NzgzMDk5Mzk4NTMxNDQ4ODMz.X8V0JQ.MsaJ3hMZ1zWFtpAXA3SErgamfcc",
+    "mongo_url": "mongodb+srv://Lootly:Lootly112q@cluster0.bbsgx.mongodb.net/Database?retryWrites=true&w=majority",
+    "prefix": "+"
+}
